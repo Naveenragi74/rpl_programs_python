@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1868083e-8b48-4ba4-b6c4-49d17cfd565d" name="Changes" comment="initial code">
-      <change afterPath="$PROJECT_DIR$/add.py" afterDir="false" />
+    <list default="true" id="1868083e-8b48-4ba4-b6c4-49d17cfd565d" name="Changes" comment="2 lines initialization added.">
+      <change afterPath="$PROJECT_DIR$/naveen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add.py" beforeDir="false" afterPath="$PROJECT_DIR$/add.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Naveenragi74"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Naveenragi74&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Naveenragi74/rpl_programs_python",
-    "accountId": "2c9f3b54-430a-4e82-ac99-2c11a76a89eb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Naveenragi74/rpl_programs_python&quot;,
+    &quot;accountId&quot;: &quot;2c9f3b54-430a-4e82-ac99-2c11a76a89eb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2hzeGbjNTGYtPAXeZQ8ja4BVIqF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,6 +47,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.abcd.executor": "Run",
+    "Python.naveen.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -70,11 +77,37 @@
       <option name="project" value="LOCAL" />
       <updated>1718601406509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new add file added with single comment.">
+      <option name="closed" value="true" />
+      <created>1718601555822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718601555822</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2 lines initialization added.">
+      <option name="closed" value="true" />
+      <created>1718601636123</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718601636123</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 lines initialization added.">
+      <option name="closed" value="true" />
+      <created>1718607709960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718607709960</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial code" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial code" />
+    <MESSAGE value="new add file added with single comment." />
+    <MESSAGE value="2 lines initialization added." />
+    <option name="LAST_COMMIT_MESSAGE" value="2 lines initialization added." />
   </component>
 </project>
